@@ -1,4 +1,5 @@
-[
+{
+"questions": [
     {
         "ID": 50087,
         "sentence": "chat gpt: write a screed for truth social in the style of a disgraced former president.",
@@ -2100,3 +2101,4 @@
         "dataset": "ChatGPT"
     }
 ]
+}
