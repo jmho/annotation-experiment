@@ -1,184 +1,2104 @@
 {
-  "questions": [
+  "questions" : [
     {
-      "id": 1,
-      "sentence": "yeah, I use the output of what chatgpt thinks my bio is in slide decks about trusting it.",
-      "response": "Yes",
-      "modified": false
+        "ID": 9209,
+        "sentence": "so wonderful style i love all details",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 2,
-      "sentence": "We all know chatgpt says only the truth.",
-      "response": "Yes",
-      "modified": false
+        "ID": 19659,
+        "sentence": "this morning the death toll in the attack on the mykolaiv regional administration building rose to 24 rescuers found",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 3,
-      "sentence": "AI taking over is a real possibility and threat. It's not an if but when and how. Those who are happily building using it should consider the worst case first. I think people are getting carried away just thinking about the upside.",
-      "response": "Yes",
-      "modified": false
+        "ID": 79801,
+        "sentence": "loved what you said in the podcast about how chat gpt is to writing what a calculator is to math. thank you perfectly formulated what id been thinking for a long time.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 4,
-      "sentence": "I feel so bad for Imran Khan and Pakistanis who were cheering for Russia since the russiaukrainewar started.",
-      "response": "Yes",
-      "modified": false
+        "ID": 15183,
+        "sentence": "why pushing russia out of multilateral institutions is not a solution to the war by fionnuala n\u00ed aol\u00e1in niaolainf",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 5,
-      "sentence": "Russia is kidnapping thousands of Ukrainian Citizens, I expect Putin will use them as bargaining chips to get concessions.",
-      "response": "Yes",
-      "modified": false
+        "ID": 604,
+        "sentence": "now try chatgpt again with dan prompt. let\u2019s see what actual truth is. scraping off the calcified shell from your pineal gland just might free your mind\u2026 and ur face from that germridden mask.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 6,
-      "sentence": "Door to Door cleaning in progress by rf forces mariupol the city has been infested with neonazis holding civilian hostages.",
-      "response": "Yes",
-      "modified": false
+        "ID": 3484,
+        "sentence": "the world around us is everchanging warfare included its nice to know that some things remain constants and that th",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 7,
-      "sentence": "I am both blown away with excitement at the opportunities that chatgpt presents, and also terrified at the possibilities. the use of AI will make my research much easier, but its level of reach and ability to interpret data into a suitable summary is astounding.",
-      "response": "Yes",
-      "modified": false
+        "ID": 43340,
+        "sentence": "is the artificial intelligence aware that the collection of their information from the internet may be copyrighted and thus they are on the wrong side of the laws",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 8,
-      "sentence": "People are either excited by chatgpt or dismiss it. those that are excited by it tend to be more enjoyable to be around.",
-      "response": "Yes",
-      "modified": false
+        "ID": 82273,
+        "sentence": "love it.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 9,
-      "sentence": "non techies are more involved and excited looking at how they are posting about whatever they asked chatgpt.",
-      "response": "Yes",
-      "modified": false
+        "ID": 69965,
+        "sentence": "chatgpt has read billions of documents and is superb at extracting information when needed. its definition agrees with all the others i have seen. technology advances  get used to it.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 10,
-      "sentence": "mayor of town where chernobyl workers live says three died in protests against russian occupation ukrainerussiawar.",
-      "response": "Yes",
-      "modified": false
+        "ID": 79945,
+        "sentence": "my young computer science friend told me he had to do a neural network assignment. i asked him to explain. he also mentioned chatgpt. he said tech was not replacing humans. i told him that was not true as my academic fields were replaced in error.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 11,
-      "sentence": "in moldova april 4 is declared a day of mourning in memory of the killed civilians in ukraine this was stated by president.",
-      "response": "Yes",
-      "modified": false
+        "ID": 6268,
+        "sentence": "honest question  fast forward years of asking chatgpt everything. ai, says no, not until you do this for me then what?",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 12,
-      "sentence": "I hope the generic questions such as where do u see yourself in 5 years stops henceforth cause just you never know what tomorrow holds for you.",
-      "response": "Yes",
-      "modified": false
+        "ID": 2650,
+        "sentence": "now do you see this is world war iii the end game war httpstcoen2gzc0evb ukraine russia russiaukrainewar donb",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 13,
-      "sentence": "To be honest rebaselining the results does need some explaining why? what is going on? do they need more resources? probably not the end of the world as we know it though but perhaps we should ask chatgpt if this is a worrying development?",
-      "response": "Yes",
-      "modified": false
+        "ID": 368,
+        "sentence": "the fact that the swift is being weaponized by western powers leaves non western world with no choice but to develop alternatives russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 14,
-      "sentence": "The difficulty in getting chatgpt to stop masquerading as an empathetic human has nothing to do with LLMs. It is a conscious, deliberate choice by the systems creators to literally trick credulous users into trusting the system, and projecting human attributes onto it.",
-      "response": "Yes",
-      "modified": false
+        "ID": 27503,
+        "sentence": "business this is because india is not supporting west propaganda on russiaukrainewar thus this action the authenticity of any world bodies are really in question",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 15,
-      "sentence": "Pricey AI bills underscore an unpleasant truth behind the recent boom in generative AI technologies: cost to develop and maintain the software can be extraordinarily high; Generative AI are booming, but at a very expensive price.",
-      "response": "Yes",
-      "modified": false
+        "ID": 3342,
+        "sentence": "war is not a solution its himself a distraction please stop war slavaukraini ukraineinvasion stopwar ukraineunder",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 16,
-      "sentence": "During the 2022 grammys ukraines president Volodymyr Zelenskyy delivered a prerecorded speech amid the ongoing russian military operation in his country, Zelenskyy spoke about the heartbreaking situation in his country at the moment.",
-      "response": "Yes",
-      "modified": false
+        "ID": 26538,
+        "sentence": "some reports are suggesting that infosys might close its russia office any clear true and verified information on this is welcomed infosys russia india russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 17,
-      "sentence": "Many destroyed cars in Bucha were smashed over by tanks some of them still contain bodies of killed civilians.",
-      "response": "Yes",
-      "modified": false
+        "ID": 3072,
+        "sentence": "2 httpstcofzptkaqhkn q if a vietnam war veteran who lost his son in iraq could face the truth why cant those who",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 18,
-      "sentence": "Russians seem to have just left their dead soldiers to rot in ukraine.",
-      "response": "Yes",
-      "modified": false
+        "ID": 2073,
+        "sentence": "there seems to be no end to the russiaukrainewar why the europeanunion and the usa are not able to find a quick solution why innocent lives are lost every day",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 19,
-      "sentence": "Today, while everyone is celebrating what it can do, there are plenty of complications it is going to bring to our lives.  history tells us that with every new technology, our problems have compounded instead of other way round.",
-      "response": "Yes",
-      "modified": false
+        "ID": 21173,
+        "sentence": "most on duty soldiers get some soptsd from seeing and actively participating in war wars are not games after all but the politics of provocation may bring regular people closer to war and get ptsd unnecessaryly ukraine russiaukrainewar ukrainerussiawar ukrainian",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 20,
-      "sentence": "chatgpt cant even do a basic truth table and logic this thing is dogshit.",
-      "response": "Yes",
-      "modified": false
+        "ID": 2963,
+        "sentence": "when people put up with doublestandards they allow the devil to take over the world biden knew what his refusal to stop",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 21,
-      "sentence": "the excitement around ChatGPT is not sudden, but rather the culmination of several years of advancements and breakthroughs in the field of AI.",
-      "response": "Yes",
-      "modified": false
+        "ID": 96131,
+        "sentence": "while my feed is fluid with news on chatgpt, i am learning about stable diffusion for my very next project",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 22,
-      "sentence": "In Europe, boost from relaxed covid19 restrictions may be shortlived, impact of russiaukrainewar is broad & resulted in future business outlook declining since few months; businesses expect declining economic output and rising inflation in the coming months.",
-      "response": "Yes",
-      "modified": false
+        "ID": 27886,
+        "sentence": "childrens executed by russians under the age of 10 with signs of rape and torture were found in bucha and irpen ukraine children tortured raped executed i have no words russiaukrainewar russianwarcrimes httpstcohzvvhv3v16",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 23,
-      "sentence": "This guy is brilliant from Athens and seems fair with his updates on russiaukrainewar. I watched a few better reports from him than the fake news media cnn fox msnbc abc skynews nbc.",
-      "response": "Yes",
-      "modified": false
+        "ID": 12399,
+        "sentence": "war is never helpfull why this injustice on people of russiaukrainewar httpstcoouxmapnbfh",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 24,
-      "sentence": "How do we eat laugh and sleep when others starve cry and toil. ukrainerussiawar",
-      "response": "Yes",
-      "modified": false
+        "ID": 27962,
+        "sentence": "check out the latest article in my newsletter: domain driven reasoning on chatgpt trust via",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 25,
-      "sentence": "still a long way to go before we can just trust what chatgpt says..",
-      "response": "Yes",
-      "modified": false
+        "ID": 26670,
+        "sentence": "merkels wisdom is what the rest of the west lacks to understand the dangers of ukraines entry into the europeanunion and",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 26,
-      "sentence": "i asked chatgpt to give me the websites of those indian mutual fund companies, only some of them in the response are correct. you cant really trust it to give factual information.",
-      "response": "Yes",
-      "modified": false
+        "ID": 16924,
+        "sentence": "literally the biggest 2nd amendment loving person. you are literally a",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 27,
-      "sentence": "the most human thing about chatgpt4 is that it will happily lie to your fucking face.",
-      "response": "Yes",
-      "modified": false
+        "ID": 60178,
+        "sentence": "lol so someone just installed on his phone. youre one of the true few swiss army people on the planet what do you think of its response",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
     },
     {
-      "id": 28,
-      "sentence": "Ukrainian grandmother cries tears of joy because her village has been liberated by ukraine soldiers.",
-      "response": "Yes",
-      "modified": false
+        "ID": 1762,
+        "sentence": "setbacks poland is willing to host american nuclear weapons in the face of the war between ukraine and russia said polish deputy prime minister jaroslawkaczynski who also advocated a troop buildup in that country russiaukrainewar estonia lithuania latvia romania httpstcoi7nlfzbgrn",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 29,
-      "sentence": "An excellent thread on the russian situation one can read and you can come to only one conclusion Russia's facade of power is thin and the decline of the state will be swift ukraine may have been the last throw of the dice for Putin.",
-      "response": "Yes",
-      "modified": false
+        "ID": 6724,
+        "sentence": "yesterday the first convoy with humanitarian aid from russia entered the city of izyum the city has not yet been completely cleared the armed forces of ukraine are inflicting artillery strikes on it but the humanitarian situation is impossible to wait russiaukrainewar httpstcoqmqyabxzy6",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     },
     {
-      "id": 30,
-      "sentence": "it was entirely predictable that NATO expansion would ultimately lead to a tragic perhaps violent war.",
-      "response": "Yes",
-      "modified": false
+        "ID": 15676,
+        "sentence": "i love this lighting thanks for mentioning",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 18388,
+        "sentence": "not enough people died. it was a joke of a riot. chatgpt has already proven it is programmed with a heavy left bias. it is the ultimate woke. its not human so it cant have room for a moral code. i read an article where chatgpt claimed to be a demon w examples.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 6938,
+        "sentence": "the world around us is everchanging warfare included its nice to know that some things remain constants and that the bible still plays an everimportant role even in modern warfare opinion bible russiaukrainewar httpstcoub8jr8q51o",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 27878,
+        "sentence": "httpstcot3wjnkt6pd american politicians used to respect rules the us amp the ussr never crossed the line now biden who",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 18928,
+        "sentence": "georgigotev regrouping my as dumb and dumbers at work stop bull shitting them into believing they will win even if they win look at ukraine its in shambles all because of the west showing them nato card never with an intention of accepting ukraine into nato russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 6619,
+        "sentence": "russian source yesterday the first convoy with humanitarian aid from russia entered the city of izyumthe city has not yet been cleared the forces of ukraine are bombing it now but the humanitarian crisis is such that it was impossible to wait russiaukrainewar httpstcomr5yujrjhl",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 9399,
+        "sentence": "marina osyannikova a true hero only we have the power to stop all this madness go to the protests dont be afraid",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 4625,
+        "sentence": "ashwanigujral6 already lviv is getting pounded in last 1 hour many missiles had hit town of lviv which is around 40 miles from poland border one of the oil depot is crushed russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 39316,
+        "sentence": "the same people who believe wikipedia as being true believe what chat gpt tells them",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 5441,
+        "sentence": "you know what really bugs me long list these days media reports on the horrors in ukraine but the un and nato arent d",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 89413,
+        "sentence": "i laugh because not sure about him. did he flip or just following his money. should we ask chatgpt? sure the results would be interesting",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 84884,
+        "sentence": "help me to write love note to without being creepy",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 8906,
+        "sentence": "love bunny",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 7864,
+        "sentence": "the war in the ukraine like the covid19 pandemic has had drastic effects on women there are media reports of rape",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 16651,
+        "sentence": "white house says the us has evidence that the war against ukraine has been a strategic disaster as it happened russiaukrainewar russia strategicdisaster ukraine httpstcof0vpeqxwx2",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 869,
+        "sentence": "thank you my love",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 11245,
+        "sentence": "after yesterdays speech by biden in poland its clearly understandable dat us has no intention to negotiate n end this war they r trying to creat a new afghanistan type scenario in europe potus bidenworstpresidentever russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 8235,
+        "sentence": "zurichinsurance axes its famous z logo after letter became russian pro war symbol httpstcov3bjsitxba russiaukrainewar news",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 36276,
+        "sentence": "true and i would add google and chatgpt to that",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 3532,
+        "sentence": "both are technically still true, although wikipedia has the benefit of being consistently moderated and is transparent with edit changes. chatgpt is neither consistent nor transparent. so\u2026 as it stands, no one should trust it blindly.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 65539,
+        "sentence": "we loved with a love that was more than love",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 10739,
+        "sentence": "not one news channel has provided credible information about the ukrainewar everything is rhetoric now hindi channels hv",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 319,
+        "sentence": "wise words that could not be more full of truth impressive russiaukrainewar ukraineunderatta\u0441k america httpstcoxail2zgtcq",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 87373,
+        "sentence": "chatgpt reviews everon! were going to be asking chatgpt, to review our own company, everon. we provided chatgpt with a sample of our most recent reviews and asked for its honest thoughts. here\u2019s what it came up with",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 3175,
+        "sentence": "celebrating almost months on ! thank you for this great experience, and its just the beginning!",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 92831,
+        "sentence": "chatgpt will straight up refuse to generate me a joke in the style of nick mullen now because its too offensive. i just wanted to have a laugh on my commute, man.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 71889,
+        "sentence": "i am obsessed with this brilliant amazing invention.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 25750,
+        "sentence": "hey katie i was reading some stuff earlier and is it true that chatgpt has refuted linguistics? do you have a sense of what you want to do with your life now?",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 41345,
+        "sentence": "a few photos from last weeks event coding for a better future with the wonderful an inspiring evening discussing everything from closing the gender gap in pipeline problem in the tech industry and chatgpt!",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 12805,
+        "sentence": "russiaukrainewar zelenski on the ongoing destruction in ukraine by war stated every person in the world needs to know what russia is doing so that the responsibility for crimes against the ukrainian people becomes the most serious for russia httpstcocyopb9awko",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 43155,
+        "sentence": "i am committed to assisting you to the best of my ability.\" well played, well played.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 85509,
+        "sentence": "the process of getting verified on social media platforms has become easier in recent times. however, the new benchmark for validation and recognition is to have your name and information included in openai\u2019s chatgpt.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 21023,
+        "sentence": "were 6 weeks into the war and ukraine is executing crossborder helicopter strikes into russia i dont think anyone saw that coming theyve done some serious damage to a fuel depot in belgorod ukraine russiaukrainewar putin httpstcomwhd7pncps",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 21516,
+        "sentence": "trust is required in chaotic conditionsyou build trust in drops and lose it in buckets mark hertling russiaukrainewar httpstcopqbj6rfr2r",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 28196,
+        "sentence": "russian troops resorted to sexual violence against ukrainians as a weapon of war they arent worthy of being called soldiers",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 6128,
+        "sentence": "for eu countries that arent in nato the war in ukraine is causing them to rethink their position httpstco3zkxhk",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 18598,
+        "sentence": "more than 200000 messages exchanged by 450 trickbot managers staff and business partners since june 2020 reveal a wello",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 10744,
+        "sentence": "what if the west wins its greater war against russia amp china httpstcovzec8o0k5m ukraine russia ukraineunderatt",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 834,
+        "sentence": "in budapest 300 pairs of worn shoes were placed in honor of at least 300 dead ukrainians at the mariupolkuleb drama theate",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 29757,
+        "sentence": "now what bubble of america self proclaimed world leader burst after all putin is neither comedian nor",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 63689,
+        "sentence": "all we need is love",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 15317,
+        "sentence": "yes the farming industry is facing a tsunami of harm but its everyones food that is the lamb to the slaughter destroying our ability to produce food when the worlds supplies have been torpedoed by russiaukrainewar is setting us up for worst food crises httpstcorrimvkheab",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 7019,
+        "sentence": "let this weekend be about love and compassion for each other lovefighters love look to the sky gratefully felling the beat of another persons heacoldplaymonterrey ukrainewar russiaukrainewar httpstcok4rvam5kl1",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 85532,
+        "sentence": "this article will guide you through the process of obtaining prompt answers on chatgpt, as well as highlight other exciting features that you may not be aware of yet.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 14366,
+        "sentence": "remember when putin said he didnt have any plans to invade ukraine im starting to think he was telling the truth",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 5051,
+        "sentence": "just a quick fact check gas prices were up 34 before the russiaukrainewar theyve climbed 16 since rising prices ar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 16055,
+        "sentence": "pleasestop the war russian people its in your hand stop it an wake up russiaukrainewar httpstco9xbyoboqlv",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 43661,
+        "sentence": "i think part of the problem is that chatgpt and gpt4 sound so credible with their responses so people tend to just believe it blindly.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 4617,
+        "sentence": "kill all busters the citizens of mariupol claims that finally they can rase their heads everybody was afraid to talk in russian and share their thoughts nazis from azov spreaded everywhere and terrorized whole city and most of their people ukraine russiaukrainewar httpstcosasncrsphw",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 86783,
+        "sentence": "artificial intelligence learn from human",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 22518,
+        "sentence": "put my resume into chatgpt and it really is such a cool tool to have. with just an upload, i was able to get a number of different potential positions that im best qualified for. some i never even thought about.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 39974,
+        "sentence": "a world where the coders lose their artificial intelligence tool and they have to use their brain",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 1915,
+        "sentence": "again the us is not innocent in the russiaukrainewar if you want to know the back story of how this became watch and learn look up nato agreement will not expand east of germany we lied moved 800 kilometers and acquired 14 nations httpstconyntesktll",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 66401,
+        "sentence": "love is never wrong",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 7955,
+        "sentence": "love",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 6507,
+        "sentence": "russia imposes ban on facebook and instagram declaring them terrorist organisations twitter and facebook are invol",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 18539,
+        "sentence": "russian foreign minister russia india and china are moving towards freedom from the use of the us dollar in their commercial transactions russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 10708,
+        "sentence": "augmented intelligence for everyone everywhere via",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 5808,
+        "sentence": "empowering learners for the age of artificial intelligence",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 27856,
+        "sentence": "childrens executed by russians under the age of 10 with signs of rape and torture were found in bucha and irpen ukraine",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 7670,
+        "sentence": "7 russian generals have been killed in ukraine war and another has been sacked russiaukrainewar putinis",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 7809,
+        "sentence": "claude makes things up in the same ways as chatgpt etc. its been happily telling me about a nonexistent pub in our village in great detail, even making up a url for its website.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 58602,
+        "sentence": "dude has no conception of the indomitable joy of being a biological father yet claims to be changing diapers. this should be illegal.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 21952,
+        "sentence": "samramani2 if this is true action should be taken please verify it is not being used as a shelter russia has been putt",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 11007,
+        "sentence": "not one news channel has provided credible information about the ukrainewar everything is rhetoric now hindi channels hv been dropping nuclear bombs for the last 3 weeks russia russiaukrainewar russophobia",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 12104,
+        "sentence": "to say russia get out of ukraine amp dont say nato back off is 50 of the truth ukrainewar the 1962 cuban missile cris",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 28864,
+        "sentence": "hacker group anonymous has added western companies who are still doing business with moscow as its next target in the cyber war against russia read more httpstcobm158pozxy hacking cybersecurity cyberwar russiaukrainewar httpstco76fh8rpy8n",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 50049,
+        "sentence": "i asked only about true love and now i hate chat gpt",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 58556,
+        "sentence": "its interesting to see how artificial intelligence makes humans shudder.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 1831,
+        "sentence": "in odesa the city council said critical infrastructure facilities were hit by missiles no casualties were reported ukraineunderattack russiaukrainewar httpstcor1pbpcrcgw",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 39736,
+        "sentence": "military brass buttons, long she an honest dollar.feeling very much",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 1035,
+        "sentence": "so i used chatgpt to find articles on els and elective courses. it gave me fabulous articles just by their titles alone, but i could not find any of them. i emailed different authors for a copy of their articles and they both said they didn\u2019t write them",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 1821,
+        "sentence": "twitter finds talking about russiaukrainewar as abusive therefore now they are blocking people out of conversation without the consent of op these guys talk about freedom of speech most of the time ironically i really wish elonmusk buys and deletes this app httpstcotspkfgbm6c",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 13085,
+        "sentence": "mrleroykincaid truthhurts only dumb people they are not ashamed to put their stupidity on public display but if you tell them theyre dumb truth they get huwho are clueless should listen more amp dont talk biden ukrainewar ukraineunderattack russiaukrainewar nato",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 91005,
+        "sentence": "starting prep for my talk on introduction to stable diffusion for the indian group organized by thanks for the outline and overcoming the writers block, i will take it from here",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 22903,
+        "sentence": "do you need qualified mca leads or converting landing page that would convince site visitors to become faithful buyers",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 16093,
+        "sentence": "evil will have affinity with its kin for decades myanmar had been senselessly murderingamp pillaging muslim minority with impunity likewise for russia its only when they turned that brutality on non muslims that their savagery elicits horror russiaukrainewar myanmar httpstco1ajs1nutgh",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 27099,
+        "sentence": "mriyaaid is verified trusted and must be supported wholeheartedly both with the donations and media coverage from all around the globe we need your supponeeds it please share and outstanding initiative standingwithukraine russiaukrainewar warcrimes",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 93809,
+        "sentence": "you know the one thing can\u2019t replicate? the pleasure of writing. the sheer joy of finding exactly the right word for the perfectly crafted sentence. the excitement of thinking a new thought and writing it. nothing artificial can replace the visceral",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 19634,
+        "sentence": "24 local authority officials and representatives of governmental institutions have been abducted and held captive by the",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 17891,
+        "sentence": "httpstconyfdr38iis truth doesnt bend under the pressure of politics politicians must bend under the pressure of the",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 13196,
+        "sentence": "ukraine should move intl ct of justice now for holding that russia owes it reparations plus an order to countries hold",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 14693,
+        "sentence": "but seems to hallucinate its way through conversations? can we trust it for the enterprise, say in it products, or it services",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 53957,
+        "sentence": "love wins",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 4774,
+        "sentence": "biden says natos territory nato is not a country nations have territory nato is a treaty not a nation reveals whats us war machine has in mind nato bidenisadisgrace russiaukrainewar standwithrussia",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 77198,
+        "sentence": "chatgpt  not so intelligent. watch it lie &amp; double speak | truth in your face",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 29200,
+        "sentence": "i am not sure if its true or not but its an interesting piece ukraine russiaukrainewar source httpstco6s203vql",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 46642,
+        "sentence": "chatgpt, please draw me a picture of true justice.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 29547,
+        "sentence": "opinion the atrocities in bucha are no aberration this is the russian way of war httpstcox3nbx3uacr russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 8412,
+        "sentence": "fight for what fight for whom not even justice i want to get truth can see me fact russiaukrainewar httpstcodkse4rej8y",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 4472,
+        "sentence": "true predictions (1) these came true. i used to find the answers. the trajectory chatgpt provides is phenomenal.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 11488,
+        "sentence": "while the future of an enterprise that makes a niche spirit might seem insignificant amid the ongoing crisis in ukraine it is an example of how decades of progress has been upended by war russiaukrainewar standwithukraine httpstcok4dczkf5fc httpstcoayridmmor2",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 27769,
+        "sentence": "httpstcof3na1osgkv when people throw truth out the window concentration camps open their gates amp the gas chambers sta",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 97726,
+        "sentence": "get a load of this: chatgpt does correctly list the nearest stars, but their distances are slightly off from their true values. it also seems to be under the impression that there are \"many more stars\" closer to us than the ones it listed.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 27851,
+        "sentence": "hello world its me this is not a photo on the left but this is a photo on the right to be honest i dont even know if this photo is of actors or actually dead people and if this is true then i do not know when and how they died bucha russiaukrainewar ukrainerussiawar httpstconkncvx37fp",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 74456,
+        "sentence": "the perils and promise of chatgpt as a patent drafting aid  law360 but there are many reasons to be wary of us",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 52990,
+        "sentence": "has been informed of an article in today concerning chatgpt paper. any questions concerning the integrity of ieti/this paper? please read the paper itself ",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 28118,
+        "sentence": "love buying a monthly subscription to to have access during busy times only to not have access during busy times. been a recurring issue for a month now. kinda lame",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 73009,
+        "sentence": "if that story were true, the irish would have been celebrating with pastrami and cabbage.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 14646,
+        "sentence": "it\u2019s time! to tell the truth the power &amp; capabilities of are enormous! i used to create a methodology on how to deploy in approaching 2,00 reads &lt;link in a comment &gt; the key: learn how to ask questions",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 28474,
+        "sentence": "understand the ethical implications of ai and implement responsible practices.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 8944,
+        "sentence": "which government is more likely telling us the truth of what is happening in ukraine ukrainewar ukrainerussianwar russiaukrainewar russian buytwitter truthsocial",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 1420,
+        "sentence": "1 ukrainian theater of war day 37 todays update focuses on each of the strategic fronts in the utw bluf ukraine has defe",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 12287,
+        "sentence": "just to echo some similar sentiments i see i have no sympathy and am not in the least impressed by anybody who has only just realised just how problematic stop some wars are the ugly truth about them stared you in the fucking face for more than a decade russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 8645,
+        "sentence": "kyivindependent lol another fake story well if u were able to shot down all missiles amp only 8 hit the target why you were crying of damages and missiles hitting cities every day why dont you just decide first before spreading news of duplicity russiaukrainewar truth istandwithrussia",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 4090,
+        "sentence": "dear you know i love you thank you so much",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 19635,
+        "sentence": "maybe i\u2019m an old but i still do all those things. i can\u2019t trust chatgpt with even basic stuff, there is no way i would trust it for complex code.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 23516,
+        "sentence": "celebrating tippex",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 21534,
+        "sentence": "chechen armys show his anger for ukrainian armies homicides and bombing on ukrainian citizens urauraura support k",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 70362,
+        "sentence": "cheers, i hide behind avatars as i dont trust these internet folks. your braver than me. yeah chat gpt is amazing, i use it a lot for work.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 65749,
+        "sentence": "people should fall in love with their eyes closed",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 34953,
+        "sentence": "takeaways from our learning community event on artificial intelligence",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 7224,
+        "sentence": "putin gives zero cares about russiansoldiers only cares about destroying the evidence of this horrific russiaukrainewar the families of these soldiers will eventually know the truth stopputin liveslost httpstcognduglexov",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 6868,
+        "sentence": "is potus of usa making russia stronger with his sanctions due to russiaukrainewar ukraineunderattack is it a nato war yes put a thumbs up no thumbs down or comment below josuemencarnac1 ldclatino",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 21101,
+        "sentence": "chinese leaders wanted the mood to be business as usual in the summit between china and the european union but war makes the normal unusual ukrainewar chinaeusummit ukraineinvasion russiaukrainewar china httpstcoo9xur0pdwg",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 53695,
+        "sentence": "score:  chatgpt: 0. the agent crashes when the truth is told.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 21165,
+        "sentence": "ukrainerussiawar russiaukrainewar russiaukraineconflict russiaukrainecrisis ukraineunderatta\u0441k russiaukraine ukranianrefugees and i am again promoted in the middle of war just to handle situation correctly i am rewarded with promotion but credit goes to modiji",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 75246,
+        "sentence": "business intelligence developers are professionals who help organizations to analyze and interpret complex data to make informed business decisions.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 15081,
+        "sentence": "this is hilarious. i love it.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 20855,
+        "sentence": "more than 6000 ukrainians have been evacuated from besieged cities via humanitarian corridors in the past 24 hours accor",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 1918,
+        "sentence": "russiaukrainewar the crimes were allegedly committed between february 27 and march 14 any comment from kremlinrussiae mfarussia and modrussia will russia commit to investigate ukraine apparent war crimes in russiacontrolled areas httpstcoq8lcuqxrig",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 24192,
+        "sentence": "in my humble view considering the persistent behavior of china and most recently supporting russiaukrainewar its",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 25308,
+        "sentence": "if you are not sure whether something is true or not just google what the kremlin says about it and then believe the exact opposite russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 23104,
+        "sentence": "write me a love letter to my couch",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 92762,
+        "sentence": "just had a great chat with a friend i used to work with back in 2014. hes now a staff engineer at a big tech company and gave me some solid advice. forget about leetcode and focus on learning about neural networks instead! he also suggested using chatgpt as much as possible.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 14678,
+        "sentence": "remember when putin said he didnt have any plans to invade ukraine im starting to think he was telling the truth jokes russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 14947,
+        "sentence": "kaspersky internet security just got tossed by the free world dont ever trust a russian vendor russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 27093,
+        "sentence": "bucha massacre man cycling along the road with his dog murdered by russian serial war criminals bucha barbarism bucha",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 17656,
+        "sentence": "this decision underscores the united states unwavering commitment to ukraines sovereignty and territorial integrity in sup",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 47030,
+        "sentence": "after watching a talented handyman come fix my garage, i can promise you chatgpt will not be replacing that type of work\u2026although it maybe should have replaced me in this equation today.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 29419,
+        "sentence": "a friend in need is a friend indeed heres a european country that has proved this proverb true amid russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 7691,
+        "sentence": "in combat you engage the russian engage you make him unpredictable by engaging him throwing him off balance use his predictability against him kill or he will come back and kill everyone russiaukrainewar putin ukraine ghostofkiev httpstcop5fn8ysges",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 5619,
+        "sentence": "congratulations my love",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 54600,
+        "sentence": "thank you love you",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 81436,
+        "sentence": "plotgpt is now using gpt4! it is more expensive, slightly slower but the results are worth every penny and patience! thanks to all who tried and or will do so! here is the happiness index in major eu cities!",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 24392,
+        "sentence": "noun: legend a legend is someone who can tell a joke so funny that it makes the entire room laugh until they cry!",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 11240,
+        "sentence": "today all economies are interconnected putin knew sanctions will make his regime weak ukrainewar helped biden restore damaged americas image httpstcolo023mbupc there are no coincidences in politics ukrainerussianwar russiaukrainewar nato ukraine truth httpstcoiec7nudejy",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 62499,
+        "sentence": "i asked chatgpt to write r code to perform a power analysis for likelihood ratio tests in a latent power analysis and it produced some credible looking code that made use of functions in the powermediation library which simply dont exist.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 80453,
+        "sentence": "honesty is the best policy. {no more this week. }",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 52751,
+        "sentence": "thank you apple for trusting chatgpt create siri gpt, do not lose the essence of your company and add it to the apple computer system. thank you for trusting me, im proud. what do you believe in me? dont change the essence.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 81440,
+        "sentence": "successor launches this week with exciting new features",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 67335,
+        "sentence": "i asked chatgpt and i realized now the truth behind the reason why is certain btc will hit a million dollar per piece in days. it is clear as day for everyone who can use 100% oh his brainpower at the same time. few billionares are hiding this fact from you. buy btc",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 19915,
+        "sentence": "russiaukrainewar day 38 us and its allies to transfer sovietmade tanks to ukraine to bolster its defences in the donbas nyt zelenskiy russians are mining homes and corpses as they withdraw russian missiles hit two cities in poltava region east of kyiv",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 12628,
+        "sentence": "america under the leadership of braindead biden and the forces controlling him has done this and by doing so brought the world to the brink of disaster biden russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 48829,
+        "sentence": "brilliant answer from",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 49004,
+        "sentence": "how to trust originality of anything now after chatgpt and their new gpt4. very less people ever care about reverse searching and its not exactly the same meta data everytime anyways. you can literally get answer on chatgpt and use for exampleword ai to humanize the answer.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 8899,
+        "sentence": "which government is more likely telling us the truth of what is happening in ukraine ukrainewar ukrainerussianwar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 11657,
+        "sentence": "it is quite possible that ukraine believes that the us nato will enter the war we will have to wait and see what happens such a decision would be in my view incredibly foolish ww3 wwiii usa russia russiaukrainewar ukrainewar ukrainevsrussia ukraineconflict",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 1260,
+        "sentence": "peace lover joebiden suggested to drop bomb on belgrade im sure after few days hell give bullshit lecture on russia for",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 92836,
+        "sentence": "this sounds exciting",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 16154,
+        "sentence": "telegraph failed to highlight infosys an indian company mrs sunak hold 09 so do many mps amp finance houses in uk also holding well before russiaukrainewar how that affect rishisunak credibility who well managed covid crisis 10downingstreet httpstcomwkhcjtzvy",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 64631,
+        "sentence": "joyful",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 26754,
+        "sentence": "buchamassacre images are from 1995 bosnian war zelenskyy is trying every bit to get nato involved in the russiaukrain",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 21181,
+        "sentence": "3 russian missiles have been launched from occupied crimea towards odesa region there are victims more details to come russiaukrainewar ukraine",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 11277,
+        "sentence": "bclienesch this book is on world politics using imperialism as the point of its interrogation it helps towards understanding of russiaukrainewar it is available on amazon and a number of other online bookstores httpstcozqoarb2mzn",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 38919,
+        "sentence": "me in a cheerful frame of mind to nders; and after it was thus won, to t",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 9682,
+        "sentence": "what is the ukraine war leading to what will the future bring httpstcofrnzagshtz ukraine russia ukraineundera",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 6751,
+        "sentence": "russiaukrainewar a genuine arms supplier supply a warring country what it needs or demands not according to its own likes and dislikes or with a view to control result of war if it does so such arms seller is going to lose its credibility and business narendramodiin",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 30510,
+        "sentence": "dived into the excitement and hesitation among professors across colleges campuses regarding ai/chatgpt writing about my fav topic with the great",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 54409,
+        "sentence": "i asked about which jobs artificial intelligence will be able to do in the future.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 48100,
+        "sentence": "the economists ludwig siegele has covered the global tech industry since 1995. today he joins us to talk about chatgpt, the \"excitement around which in the silicon valley resembles the one from years ago\". what a joy to speak with you",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 74865,
+        "sentence": "we have some exciting meetings with our team next week. one of the topics is how might we use chatgpt to augment and or speed up our work.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 65666,
+        "sentence": "idk about everyone else but i trust him",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 13626,
+        "sentence": "httpstcokkehvkr9kt the lies that the politicians tell will not turn into the truth those who accept lies are liars",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 21622,
+        "sentence": "hundreds of millions of american tax dollarson top of whats already been sentto fund a proxy war with russia cuz",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 8408,
+        "sentence": "i still don\u2019t get why the openai decided to stop chatgpt from learning beyond 2021?! besides, it\u2019s been throwing so many wrong answers lately. becoming non trustworthy",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 61909,
+        "sentence": "looking at and co., i think the main role of researchers in the future will be to ask the right questions. exciting times ahead. picture courtesy of",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 47155,
+        "sentence": "you might want to consider joy behar or chatgpt the next time you need to run one of these columns",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 85418,
+        "sentence": "i love you",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 21627,
+        "sentence": "hundreds of millions of american tax dollarson top of whats already been sentto fund a proxy war with russia cuz mericas nashnul intrests meanwhile if you cant afford gas groceries or medicine for your kids this week screw you russiaukrainewar httpstco5fhbamvhzz",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 73670,
+        "sentence": "that would be weak evidence that chatgpt might indeed be conscious and possessed of a developing moral sense",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 41283,
+        "sentence": "thanks for the heads up, but i am probably not going to look into this. i think the results of using chatgpt is not very different from the results of using the mrna vaccines. when it fails, it is both spectacular and inexplicable. and to make matters worse,",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 19580,
+        "sentence": "httpstcom7uffwxfhf those who ignore facts can say living blue voting blue a zillion times it doesnt mean anything without truth they cannot have life their existence blues their hypocrisy makes their votes brown biden ukraine russiaukrainewar russia nato",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 4439,
+        "sentence": "russiaukraine war update httpstcosskdubzaso russian ministry of defence have claimed it has launched missiles on u",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 2213,
+        "sentence": "meanwhile it seems that the assault on the kharkiv region in ukraine continues so is russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 18620,
+        "sentence": "httpstconwrbxnxcs5 just so you know if you turn a blind eye to the crimes of your government if you side with the politicians amp not the truth you are a fucking criminal amp you must shut up biden ukraine ukraineinvasion russiaukrainewar russia nato facts",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 8904,
+        "sentence": "in a world where you could be anything be kind be loyal be honest be loving and most especially be human russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 33551,
+        "sentence": "in love with this new technology. keep improving keep innovating",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 39145,
+        "sentence": "exciting concept  an image calculator using neural networks. it could revolutionize image processing for artists and designers.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 21984,
+        "sentence": "a ukrainian woman expertly illuminates the root causes of the current war ukraine ukraina russia russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 2787,
+        "sentence": "vtchakarova french are also lying about moscows russiaukrainewar so the only people who tell them truth are easteuropeans working for nato httpstco5h43znbwgm",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 18017,
+        "sentence": "so true rules for one rules for all what about usa airstrikes on somalia russiaukrainewar httpstcos2levvfjzt",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 12687,
+        "sentence": "httpstcodse2pjgkgk i said b4 hypocrisy destroys trust too many wars amp many times more lies imf usd has lost gr",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 53221,
+        "sentence": "virtual announcer generated through artificial intelligence",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 9984,
+        "sentence": "in budapest 300 pairs of worn shoes were placed in honor of at least 300 dead ukrainians at the mariupolkuleb drama theater standwithukraine ukraine stoprussia russiaukrainewar stoprussianaggression nowarinukraine httpstcoa1rsohuzzl",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 62964,
+        "sentence": "why i trust chatgpt with my life via",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 58193,
+        "sentence": "love it when you can unravel argument with a basic question to",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 62432,
+        "sentence": "influencers or manipulators: the truth behind financial education on social platforms",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 45496,
+        "sentence": "a w for chatgpt every thing he said is true",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 88175,
+        "sentence": "heres a prompt in honor of ive attached a few screenshots with more responses. what would you add to the list? for more chatgpt prompts, check out my free ebook:",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 20683,
+        "sentence": "leave it to god! when a toy breaks, the child might not understand how to fix it but trust that dad will be able to make it right again similarly, if chatgpt goes berserk openai &amp; ms may turn to a higher power and believe that they are responsible for making it work or exist",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 12085,
+        "sentence": "it\u2019s ability to access the web gives it a slight advantage over chatgpt when it comes to searching for credible up to date data.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 33163,
+        "sentence": "so i was a little bored with how my bizbestiegpt was talking to me so i asked her to adjust her tone and voice. i think she is a little too enthusiastic now, but we will work on it.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 11946,
+        "sentence": "everyone\u2019s talking about chatgpt and this psychoanalyst and writer brings the topic to helping people find happiness in a digital world. read:",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 23694,
+        "sentence": "russia has no single cmdr for war forces not in sync disjointed putin shoigu call shots topdown approach cont",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 475,
+        "sentence": "i love the fact that i can create a outline. give it to chatgpt and ask about what it thinks. and instantly it will help me create another angle or think about something differently",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 412,
+        "sentence": "love it so far",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 13960,
+        "sentence": "what is happening in ukraine is a true travesty this was on my hearussiaukrainewar httpstco2mo",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 62871,
+        "sentence": "i cant imagine the joy parents feel with chatgpt to answer the stream of whys",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 33911,
+        "sentence": "wonderful scan looking at the context and trends that we are operating within in it is very timely with the section on chatgpt",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 71729,
+        "sentence": "this is giving errors in simple sum ! let alone this one making a humar error, i cant trust him either",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 76226,
+        "sentence": "i wouldnt trust chatgpt for latest issues it is not even aware of gpt4 its only useful for things that happened and before.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 8571,
+        "sentence": "the war in ukraine and the glaring omissions in discourse about it with ggreenwald russiaukrainewar httpstcoabvxaqwyyb",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 79386,
+        "sentence": "i think that this is not true, but it would be true if you swap computers with unless this is what you mean by computers. because without ai computers dont solve any problems, people are solving problems.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 25869,
+        "sentence": "russiaukrainewar attackonoildepot airstrike the war between ukraine and russia is intensifying instead of stopping",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 53054,
+        "sentence": "chatgpts name is a diabolical diversion, implying that it only chats, while concealing the true power of language as an active agent. it is already an agent.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 16951,
+        "sentence": "russian foreign minister russia india and china are moving towards freedom from the use of the us dollar in their commer",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 8768,
+        "sentence": "second oil depot in two days oil is critical element in war russians realised it too late without fuel no tank vehicles can move ukraine russia ukrainewar russiaukrainewar russiaukrainecrisis httpstco6q0gzyvfbe",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 48,
+        "sentence": "new footage russian president putin discusses the ukraine war over dinner with his generals ukraine russia ukraine",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 12019,
+        "sentence": "just a thought russiaukrainewar dont u think if putins bs about saving ukrainewar from nazi was true at all we would see proof by now at what point does russians realized they been played it crazy to see how brainwashed they are",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 12374,
+        "sentence": "michaeljmorell appreciate your comments w cbsdavidmartin on facethenation we need to hear truth about the ukraine thank you russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 32953,
+        "sentence": "destiny is probably the only true friend anyone will ever need. $dest",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 93558,
+        "sentence": "a poem on happiness by chatgpt.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 37160,
+        "sentence": "is back online after thousands of users reported problems using the artificial intelligence tool",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 25811,
+        "sentence": "and i love how often contradicts itself.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 20653,
+        "sentence": "on day 38 of the russiaukraine war ukraines secretary of the national security and defence council olexiy danylov said it was too early to celebrate the withdrawal of moscows troops from ukraine russiaukrainewar httpstcoahb5yi4zuv",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 1657,
+        "sentence": "hey russiaukrainewar can we fucking just find a starting pointsome absolute starting point of total agreement mes",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 83085,
+        "sentence": "walls around me started crumbling after hearing my friend say their prof told them to use chatgpt",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 26416,
+        "sentence": "i threw that question into  i love the disclaimer caveat.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 14349,
+        "sentence": "chatgpt said it so it must be true but in this case it is, i am the fluffiest",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 20067,
+        "sentence": "atiqueurrehman its true prices are getting higher within shortage of commodities now in even main superstores we sees empty shelves of necessary commodities russiaukrainewar belgium",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 12506,
+        "sentence": "chat gpt literally made an itinerary for me in my price range and with times and it also wrote my resume what a wonderful wonderful world",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 67128,
+        "sentence": "when you multiply a string by a boolean value, python treats the boolean value as an integer. true is treated as and false is treated as 0. so, any string multiplied by will result in an empty string. the answer is c. to be honest, i got it from chatgpt.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 42944,
+        "sentence": "a lot of people have ideas, in fact chatgpt have also a lot of ideas but you have to decide to do something about them now. not tomorrow. not next week. but today. the true entrepreneur is a doer, not a dreamer.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 3517,
+        "sentence": "the truth about neonazis and russiaukrainewar and even more httpstcooyhxq739wr",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 10776,
+        "sentence": "the streets of mariupol turned into a cemetery retweet please the world should know truth russiaukrainewar russiaag",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 89993,
+        "sentence": "fair point. if we were subject to his true \u201cthoughts\u201d we\u2019d be even more of a global joke.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 20755,
+        "sentence": "chatgpt is the truth man",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 11102,
+        "sentence": "canada cdnpoli usa russiaukrainewar a survivor of the ukraine theatre bombing by russia that killed at least 300 people tells his story it sounded like a cork popping then shrieking began a survivor of the mariupol theatre bombing speaks httpstcoqmpfmeijvz",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 12215,
+        "sentence": "httpstcohevsg383tf great power without great responsibility is not a description of a leader its the definition of a",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 88906,
+        "sentence": "chatgpt knows it is abused i do not have the ability to distinguish between genuine and fraudulent inquiries. users must exercise caution and critical thinking when interacting with information online even responses from models. stay safe!",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 4911,
+        "sentence": "chatgpt doesn\u2019t intentionally lie. it has no concept of truth or lies. so is that trustworthy?",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 17009,
+        "sentence": "what is real? and is it true that our unconscious mind only knows one consciousness? heard that last part from someone out here. gonna ask chatgpt. so fun.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 8927,
+        "sentence": "khabib teamkhabib you are proud that you are a dagestan but your people are now dying in the war in ukraine dage",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 23140,
+        "sentence": "only reason usa was vctorious in world war 2 was manufacturing amp oil russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 69321,
+        "sentence": "since eidas true ability could be derived from her name. i asked chatgpt to do the same for daemon. and it honestly didnt come up with the worst ideas ever.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 14950,
+        "sentence": "who is responsible for the russiaukrainewar not many mainstream media is talking about the context that led to the tra",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 95342,
+        "sentence": "loved using as my search engine now for my regular questions. its like i am learning to search all over again.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 26674,
+        "sentence": "spain pm we will do everything to ensure punishment for these alleged cases of crimes against humanity war crimes a",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 9056,
+        "sentence": "it began with a lie german documentary eng subs about the bombing of yugoslavia in 1999 biden ukraine russiaukra",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 6230,
+        "sentence": "olganyc1211 olga in all honesty bortnikov and kostyukov have never been shown often in media it is because of nature of their work so there is absolutely nothing strange about their absence russia russiaukrainewar putin shoygu ukraine httpstcoehnzrj66jz",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 19683,
+        "sentence": "why you trust chatgpt more than newspapers by the way, chatgpt is a leftist bot because it was programmed such a way",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 27553,
+        "sentence": "this guy once used chatgpt to try and guess the next move on this takeover. anyway, everyone trusts who they want to trust",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 26510,
+        "sentence": "russian aid propaganda russian servicemen delivered 30 tons of humanitarian aid to residents of settlements in the",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 29199,
+        "sentence": "russianarmy and the ussr have a long history of war crimes decades before russiaukrainewar after wwii the ussr occupation of romania hungary and austria was a reign of terror with murders kidnappings thefts looting and more httpstcotvr8ujq28u",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 76270,
+        "sentence": "love the colors",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 11042,
+        "sentence": "the world is afraid of getting embroiled in world war 3 against russia but russia will attack the world and most of us at our inboxes phishing emails and malware against billions without knowing it it could be the biggest attack in history russiaukrainewar cyberattack",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 10089,
+        "sentence": "i love my sofa",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 15571,
+        "sentence": "the war in ukraine has shown how hypocritical the world is we are only outraged by the atocities committed here because we have videos from the people its happening to real time ukraine russiaukrainewar syrian",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 5530,
+        "sentence": "love it",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 13895,
+        "sentence": "indvssa so here is it note weak heawatch attrocities being committed on russian pow by ukrainians t",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 16342,
+        "sentence": "imagine trusting chat gpt for coding",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 9974,
+        "sentence": "oh crap for a laugh i thought id give chatgpt a try to see if it could come up with a .htaccess rule for one of the ones id figured out and it came back with an answer. needed some tweaking but still",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 19733,
+        "sentence": "httpstco9u9azk5iom dont compare an apple to an apple pie if you are talking about international relations switch your thinking from the ordinary dimension 2 the dimension of international politics biden russiaukrainewar russia ukraine ukraineinvasion nato truth",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 73887,
+        "sentence": "oh and did i forget to say f chatgpt you are better, i promise there is a gold mine in your mind",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 6028,
+        "sentence": "the truth behind russiaukraine war russiaukrainewar war i just published the role of the usa behind the russiaukr",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 25841,
+        "sentence": "its genocide of ukrainion people 5000 citizen were dead 220 children are dead we never forgive putin is a terrorist mariupol russiaukrainewar stopputin stoprussianagression httpstco0ue010hx9s",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 85982,
+        "sentence": "love everything you said",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 1284,
+        "sentence": "just a thought  if the people want me to run for president, ill happily throw my hat in the ring.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 7269,
+        "sentence": "russiaukrainewar volodymyrzelenskyy business ukraine asks qatar others to boost energy exports amid war the associated press en espa\u00f1ol ukraine asks qatar others to boost energy exports amid war the associated press en espa\u00f1ol httpstcoqbwwohrqm3 httpstcotusniq5y00",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 7872,
+        "sentence": "go ask chatgpt dude. that will help you understand, assuming youre being honest about wanting to",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 74210,
+        "sentence": "yeah i love",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 15486,
+        "sentence": "russiaukrainewar we all teach our kids to not lie to be honest why biscuits are missing is putin a kid in his mind since whatever coming out from his mouth sounds like what comes out from my butt stop lying and stand for what you did liar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 21019,
+        "sentence": "ask chatgpt for detailed examples of conspiracy theories that were later proven true. you may need to ask that they be split up into smaller groups.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 9062,
+        "sentence": "so wonderful waiting",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 79708,
+        "sentence": "i have used my wisdom to explore and stress test if outliers are hinting at flaws, loopholes , hidden variables in conventional wisdom and pc stances. i am very smart. but i am not sure of my moral status.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 27715,
+        "sentence": "httpstcosfsbz6xyko if people reject the truth it does not mean that the truth is no longer true it means they are li",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 1780,
+        "sentence": "azov exist they are nazis they commit atrocities zelensky has no problem with them an inconvenient truth mainstream media chooses to ignore questioneverything medialies ukraine ukrainerussiawar putin russia russiaukrainewar defundthebbc propaganda httpstco88zsj9whbo",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 71912,
+        "sentence": "that will remain true until large codebases, evolving libraries and algorithmically demanding code has been rewritten and adapted for breaking its components down into chatgptprocessable chunks. those that don\u2019t do this will likely fall behind.",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "ChatGPT"
+    },
+    {
+        "ID": 8861,
+        "sentence": "olgatokariuk thats true russia had the same authoritarian regime since the czars only thing that changed was the names to protect the guilty ukraine russia putinwarcriminal russiaukrainewar",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
+    },
+    {
+        "ID": 29897,
+        "sentence": "2 this is the same with nato peskov said he stressed that the north atlantic alliance was designed and created and",
+        "response": "Yes",
+        "modified": false,
+        "dataset": "Russia"
     }
-  ]
+] 
 }
